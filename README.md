@@ -1,4 +1,4 @@
-# Hi, I'm M
+# Hi, I'm Marti
 
 **MSc student in Artificial Intelligence at Bocconi University** · BSc in Economics, Management and Computer Science (BEMACS), Bocconi, 2026
 
